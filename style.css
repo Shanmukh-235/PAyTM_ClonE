@@ -152,3 +152,43 @@
 .oneimg{
  width: 100%;
 }
+
+.sec4 {
+    background-color: #f7f9fc;
+    padding: 3%;
+}
+
+.main4 {
+    background-color: #ffffff;
+    padding: 2%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.one4 img  {
+    margin: 3% 10%;
+}
+
+.one4 h1 {
+    margin: 1% 10%;
+    font-size: 45px;
+}
+
+.one4 p {
+    margin: 2% 10%;
+    font-size: 20px;
+}
+
+.one4 button {
+    margin: 1% 10%;
+    background-color: #002970;
+    border: none;
+    color: #ffffff;
+    border-radius: 25px;
+    padding: 2%;
+    width: 20%;
+    font-weight: bold;
+    font-size: 14px
+    ;
+}
